@@ -7,4 +7,4 @@
 #Roadmap
 
 #Descrizione Si tratta di un e-commerce di borse per donna. In alto è presente un menù contenente il login al sito, il carrello e le varie macrocategorie.
-Nella parte sottostante è presente la barra di ricerca e due sezioni: preferiti e tutti gli elementi.
+Nella parte sottostante sono presenti la barra di ricerca e due sezioni: preferiti e tutti gli elementi.
